@@ -301,7 +301,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Data Analyst Portfolio**
 
 - GitHub: [@Aditya Nurrohman](https://github.com/adityanrrhmn)
-- LinkedIn: [Additya Nurrohman](https://linkedin.com/in/adityanrhmn)
+- LinkedIn: [Aditya Nurrohman](https://linkedin.com/in/adityanrhmn)
 
 ---
 
