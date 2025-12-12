@@ -1,0 +1,63 @@
+Date,Product,Category,Sales,Quantity,Region,Customer_Type
+2024-01-01,Laptop,Electronics,1500000,10,Jakarta,Corporate
+2024-01-01,Smartphone,Electronics,800000,15,Surabaya,Retail
+2024-01-02,Desk Chair,Furniture,450000,8,Bandung,Corporate
+2024-01-02,Office Table,Furniture,750000,5,Jakarta,Corporate
+2024-01-03,Laptop,Electronics,2250000,15,Medan,Retail
+2024-01-03,Headphones,Electronics,200000,20,Surabaya,Retail
+2024-01-04,Bookshelf,Furniture,350000,7,Bandung,Retail
+2024-01-04,Smartphone,Electronics,1600000,20,Jakarta,Corporate
+2024-01-05,Monitor,Electronics,900000,12,Surabaya,Corporate
+2024-01-05,Desk Chair,Furniture,675000,12,Medan,Retail
+2024-01-06,Laptop,Electronics,3000000,20,Jakarta,Corporate
+2024-01-06,Keyboard,Electronics,150000,25,Bandung,Retail
+2024-01-07,Office Table,Furniture,1500000,10,Surabaya,Corporate
+2024-01-07,Mouse,Electronics,100000,30,Jakarta,Retail
+2024-01-08,Smartphone,Electronics,2400000,30,Medan,Retail
+2024-01-08,Bookshelf,Furniture,500000,10,Bandung,Corporate
+2024-01-09,Laptop,Electronics,1800000,12,Surabaya,Retail
+2024-01-09,Headphones,Electronics,300000,30,Jakarta,Corporate
+2024-01-10,Desk Chair,Furniture,900000,16,Medan,Retail
+2024-01-10,Monitor,Electronics,1350000,18,Bandung,Corporate
+2024-01-11,Office Table,Furniture,600000,4,Jakarta,Retail
+2024-01-11,Smartphone,Electronics,1200000,15,Surabaya,Corporate
+2024-01-12,Laptop,Electronics,2700000,18,Bandung,Corporate
+2024-01-12,Keyboard,Electronics,180000,30,Medan,Retail
+2024-01-13,Mouse,Electronics,80000,24,Jakarta,Retail
+2024-01-13,Bookshelf,Furniture,700000,14,Surabaya,Corporate
+2024-01-14,Desk Chair,Furniture,562500,10,Bandung,Retail
+2024-01-14,Monitor,Electronics,750000,10,Medan,Corporate
+2024-01-15,Headphones,Electronics,250000,25,Jakarta,Retail
+2024-01-15,Office Table,Furniture,900000,6,Surabaya,Corporate
+2024-01-16,Laptop,Electronics,2100000,14,Bandung,Retail
+2024-01-16,Smartphone,Electronics,960000,12,Medan,Corporate
+2024-01-17,Keyboard,Electronics,120000,20,Jakarta,Retail
+2024-01-17,Mouse,Electronics,120000,36,Surabaya,Corporate
+2024-01-18,Bookshelf,Furniture,450000,9,Bandung,Retail
+2024-01-18,Desk Chair,Furniture,787500,14,Medan,Corporate
+2024-01-19,Monitor,Electronics,1050000,14,Jakarta,Retail
+2024-01-19,Office Table,Furniture,1125000,7.5,Surabaya,Corporate
+2024-01-20,Laptop,Electronics,1650000,11,Bandung,Retail
+2024-01-20,Headphones,Electronics,180000,18,Medan,Corporate
+2024-01-21,Smartphone,Electronics,1440000,18,Jakarta,Retail
+2024-01-21,Keyboard,Electronics,210000,35,Surabaya,Corporate
+2024-01-22,Mouse,Electronics,90000,27,Bandung,Retail
+2024-01-22,Bookshelf,Furniture,600000,12,Medan,Corporate
+2024-01-23,Desk Chair,Furniture,1012500,18,Jakarta,Retail
+2024-01-23,Monitor,Electronics,600000,8,Surabaya,Corporate
+2024-01-24,Office Table,Furniture,1350000,9,Bandung,Retail
+2024-01-24,Laptop,Electronics,2550000,17,Medan,Corporate
+2024-01-25,Headphones,Electronics,350000,35,Jakarta,Retail
+2024-01-25,Smartphone,Electronics,2080000,26,Surabaya,Corporate
+2024-01-26,Keyboard,Electronics,90000,15,Bandung,Retail
+2024-01-26,Mouse,Electronics,140000,42,Medan,Corporate
+2024-01-27,Bookshelf,Furniture,550000,11,Jakarta,Retail
+2024-01-27,Desk Chair,Furniture,843750,15,Surabaya,Corporate
+2024-01-28,Monitor,Electronics,1200000,16,Bandung,Retail
+2024-01-28,Office Table,Furniture,825000,5.5,Medan,Corporate
+2024-01-29,Laptop,Electronics,1950000,13,Jakarta,Retail
+2024-01-29,Headphones,Electronics,280000,28,Surabaya,Corporate
+2024-01-30,Smartphone,Electronics,1760000,22,Bandung,Retail
+2024-01-30,Keyboard,Electronics,150000,25,Medan,Corporate
+2024-01-31,Mouse,Electronics,110000,33,Jakarta,Retail
+2024-01-31,Bookshelf,Furniture,650000,13,Surabaya,Corporate
